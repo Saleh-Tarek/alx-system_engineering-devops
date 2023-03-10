@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp shcool hello
+mkdir -m 751 my_dir
